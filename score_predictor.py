@@ -2,7 +2,7 @@ import json
 import os 
 from math import exp 
 team = "Chennai Super Kings"
-directory_for_data = '/storage/emulated/0/data' 
+directory_for_data = ###
 def get_data(): 
   dataset = []
   for filename in os.listdir(directory_for_data):
